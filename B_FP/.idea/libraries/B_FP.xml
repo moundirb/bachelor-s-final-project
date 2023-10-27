@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="B_FP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-dbutils-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LGoodDatePicker-11.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/KGradientPanel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
